@@ -12,3 +12,12 @@ quality of rendering is thus dependent on the quality of interpolation. In this 
 interpolation of reflection probes with a deep approach using various feature maps (color, depth, camera motion,
 etc.) and demonstrate its operation in a prototype application. You will evaluate the results both qualitatively
 and quantitatively and compare them to existing methods.
+
+
+### Results
+
+
+Ground truth          |   Generated ouput 
+:-------------------------:|:-------------------------:
+![](https://github.com/MrakJakob/NRG_seminar/gifs/ground_truth_circle.gif)  |  ![](https://github.com/MrakJakob/NRG_seminar/gifs/prediction_circle.gif)
+
