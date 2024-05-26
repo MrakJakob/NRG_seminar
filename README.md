@@ -19,5 +19,5 @@ and quantitatively and compare them to existing methods.
 
 Ground truth          |   Generated ouput 
 :-------------------------:|:-------------------------:
-![](https://github.com/MrakJakob/NRG_seminar/gifs/ground_truth_circle.gif)  |  ![](https://github.com/MrakJakob/NRG_seminar/gifs/prediction_circle.gif)
+![](https://github.com/MrakJakob/NRG_seminar/blob/main/gifs/ground_truth_circle.gif)  |  ![](https://github.com/MrakJakob/NRG_seminar/blob/main/gifs/prediction_circle.gif)
 
